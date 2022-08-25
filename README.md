@@ -1,7 +1,3 @@
---Hats for the script
---https://www.roblox.com/catalog/4739580137/Oversized-Hammer-of-the-Titans
---https://www.roblox.com/catalog/48474313/Red-Roblox-Cap
---
 local Character = game:FindFirstChildOfClass("Players").LocalPlayer["Character"]
 Character.Robloxclassicred.Handle.Mesh:Destroy()
 for i,v in next, game:GetService("Players").LocalPlayer.Character:GetDescendants() do
